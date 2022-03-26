@@ -1,0 +1,94 @@
+body{
+    font-family: 'Lobster', cursive;
+    background: linear-gradient(#752d4a 100%,#2d5f75 0%);
+    font-size: 10px;
+}
+ul{
+    position: relative;
+    background: blueviolet;
+    width:100%;
+    margin-top: 0px;
+    top: 5px;
+    z-index: 10;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+}
+p{
+    font-size: xx-large;
+    font: x-large;
+    font-style: inherit;
+}
+.links{
+    float: right;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: large;
+}
+#i{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#s{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#b{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#o{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#l{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#t{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#y{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#z{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#a{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#c{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#e{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#g{
+    font-size: 1000%;
+    font: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.profile{
+    width: 500px;
+    height: 500px;
+}
